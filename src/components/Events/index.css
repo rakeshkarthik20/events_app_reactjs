@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.eventsMainContainer {
+  display: flex;
+}
+.eventsContainer {
+  background-color: #323f4b;
+  width: 50%;
+}
+.eventsListContainer {
+  list-style-type: none;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading {
+  margin-left: 50px;
+  color:white;
+  margin-bottom: 3px;
+  margin-top: 40px;
+}

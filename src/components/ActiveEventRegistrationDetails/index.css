@@ -1,0 +1,71 @@
+/* Write your CSS here */
+.activeEventRegistrationContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+.initialContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin-top: 40px;
+}
+.initialViewHeading {
+  color: #475569;
+  font-size: 25px;
+  font-family: 'Roboto';
+  text-align: center;
+  margin-left: 10px;
+  width: 350px;
+  align-self: flex-start;
+}
+.yetRegisterImage {
+  width: 250px;
+}
+.yetRegisterHeading {
+  color: #64748b;
+  font-size: 25px;
+  font-family: 'Roboto';
+  text-align: center;
+  /* margin-left: 10px; */
+  width: 480px;
+  font-weight: 400;
+}
+.RegisterButton {
+  padding: 10px 30px;
+  border: 0px;
+  background-color: #0967d2;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 440px;
+}
+.registerImage {
+  width: 150px;
+}
+.registerHeading {
+  color: #323f4b;
+  font-size: 25px;
+  font-family: 'Roboto';
+  text-align: center;
+  /* margin-left: 10px; */
+  width: 380px;
+  font-weight: 500;
+}
+.registerClosedImage {
+  width: 240px;
+}
+.registerClosedHeading {
+  color: #323f4b;
+}
+.registerClosedPara {
+  margin-top: 0px;
+  text-align: center;
+  width: 300px;
+  color: #475569;
+  font-size: 19px;
+}
